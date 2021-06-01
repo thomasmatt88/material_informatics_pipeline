@@ -991,7 +991,7 @@ df_master = add_xlab_txt_file(df_historical, './new-data/ICP-MATX-BM-M001.txt')
 
 
 ```python
-df_master.to_csv('master_csv.csv', index=False)
+df_master.to_csv('output_master_csv.csv', index=False)
 ```
 
 
