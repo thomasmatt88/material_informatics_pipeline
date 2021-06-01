@@ -1,0 +1,14 @@
+              X-LABS DATA FORM
+============================================
+material_uid                  	MATX-HP-M010
+Measurement                   	ICP
+Pb concentration              	0.5
+Sn concentration              	0.4
+O Concentration               	1.1
+Gas Flow Rate (L/min)         	13
+Gas Type                      	Ar
+Plasma Temperature (celsius)  	10000
+Detector Temperature (celsius)	0
+Field Strength (T)            	1
+Plasma Observation            	Radial
+Radio Frequency (MHz)         	40

@@ -1,0 +1,12 @@
+          X-LABS DATA FORM
+====================================
+material_uid          	MATX-HP-M003
+Measurement           	Hall
+Probe Resistance (ohm)	8.1
+Gas Flow Rate (L/min) 	1
+Gas Type              	Ar
+Probe Material        	W
+Current (mA)          	0.1
+Field Strength (T)    	5
+Sample Position       	2
+Magnet Reversal       	True
